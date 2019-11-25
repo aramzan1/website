@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+title: Welcome to the Ammara’s homepage!
 
 You can use the [editor on GitHub](https://github.com/aramzan1/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
